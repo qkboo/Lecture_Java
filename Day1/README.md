@@ -6,6 +6,10 @@
 
 ## 1. Java 환경
 
+## IDE marketshare
+ - https://snyk.io/blog/intellij-idea-dominates-the-ide-market-with-62-adoption-among-jvm-developers/
+
+
 ### 자바 가상머신
  
 Java life cycle
