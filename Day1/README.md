@@ -4,6 +4,7 @@
 
 # 1. 자바 시작하기
 
+## 1. Java 환경
 
 ### 자바 가상머신
  
@@ -26,3 +27,12 @@ SCM
 Big Data
  - https://www.selecthub.com/wp-content/uploads/2020/03/BA-Life-Cycle-1024x1024.png
  - https://www.saytekinc.com/img/big-data.png
+
+
+---
+
+## 2. 기본문법
+
+Java memory model
+ - http://coding-geek.com/jvm-memory-model/
+ 
