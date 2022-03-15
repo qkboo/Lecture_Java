@@ -33,6 +33,9 @@ Big Data
 
 ## 2. 기본문법
 
+JVM Memory
+ - https://t1.daumcdn.net/cfile/tistory/99300A455E3CAFF825
+
 Java memory model
  - http://coding-geek.com/jvm-memory-model/
  
