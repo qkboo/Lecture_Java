@@ -1,2 +1,3 @@
 # Lecture_Java
-Java Basic 
+
+1. [Day1](Day1/README.md)
