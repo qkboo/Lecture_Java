@@ -16,6 +16,9 @@ Java life cycle
  - http://www.eeng.dcu.ie/~ee553/ee402notes/html/figures/JavaLifeCycle.gif
 
 
+폰노이만 아키텍처
+ - https://t1.daumcdn.net/cfile/tistory/2428C73B568D36FC3A
+ - 
 
 ### Java 활용분야
 
