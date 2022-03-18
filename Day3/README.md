@@ -15,3 +15,8 @@
 
 2. 삼각형 출력
   - [Pg04PiramidTest.java](Pg04PiramidTest.java)
+
+## 도전문제
+
+1. 팩토리얼
+2.  - [FactorialTest.java](FactorialTest.java)
