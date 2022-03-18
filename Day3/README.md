@@ -19,4 +19,4 @@
 ## 도전문제
 
 1. 팩토리얼
-2.  - [FactorialTest.java](FactorialTest.java)
+  - [FactorialTest.java](FactorialTest.java)
