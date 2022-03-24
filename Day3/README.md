@@ -1,5 +1,11 @@
 # Day3
 
+실습 노트북 
+
+1. [Chapter7.ipynb](Chapter7.ipynb)
+2. [Chapter6.ipynb](Chapter6.ipynb)
+
+
 ## 반복문 실습
 
 1. 알파벳 A-Z출력
